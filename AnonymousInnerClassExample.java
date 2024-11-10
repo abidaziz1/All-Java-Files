@@ -6,7 +6,7 @@ class Greeting {
 
 public class AnonymousInnerClassExample {
     public static void main(String[] args) {
-        // Anonymous inner class implementing the Greeting interface
+        // Anonymous inner class  implementing the Greeting interface
         Greeting greeting = new Greeting() {
             @Override
             public void sayHello() {
